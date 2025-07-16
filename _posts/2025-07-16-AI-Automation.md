@@ -6,7 +6,6 @@ categories: N8n
 tags: [n8n]
 ---
 
-## Introduction to AI Automation
 
 This post is meant to summarize some of the key concepts I have learned in the course *Introduction to AI*
 
