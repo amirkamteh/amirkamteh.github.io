@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Introduction to Python
-subtitle: Each post also has a subtitle
-categories: Python
-tags: [Python, intro, certificate]
+title: Introduction to N8n
+subtitle: Toch how to use N8n
+categories: N8n
+tags: [n8n]
 ---
 
-## Introduction to Python
+## Introduction to N8n
 
 This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
 
 
-![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
+![datacamp certification](/assets/images/banners/ChatGPT Image Jul 16, 2025, 05_21_44 PM.jpg)
