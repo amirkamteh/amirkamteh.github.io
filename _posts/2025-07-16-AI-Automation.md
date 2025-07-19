@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to AI Auotmation
-subtitle: Toch how to use AI
+subtitle: Teaching AI skills
 categories: N8n
 tags: [n8n]
 ---
